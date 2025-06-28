@@ -3596,12 +3596,14 @@
           "Wing",
           "_TZ3000_996rpfy6",
           "_TZ3000_c8zfad4a",
-          "_TZ3000_wut53hfm"
+          "_TZ3000_wut53hfm",
+          "_TZE200_pay2byax"
         ],
         "productId": [
           "RH3001",
           "TS0203",
-          "SNZB-04"
+          "SNZB-04",
+          "TS0601"
         ],
         "endpoints": {
           "1": {
@@ -10884,7 +10886,8 @@
           "_TZE200_ga1maeof",
           "_TZE200_9cqcpkgb",
           "_TZE204_myd45weu",
-          "_TZE200_2se8efxh"
+          "_TZE200_2se8efxh",
+          "_TZE284_ap9owrsa"
         ],
         "productId": [
           "TS0601"
@@ -11960,7 +11963,8 @@
           "TUYATEC-1uxx9cci",
           "_TZ3000_f2bw0b6k",
           "_TZ3000_unw0hpdv",
-          "TUYATEC-HaoiuWzy"
+          "TUYATEC-HaoiuWzy",
+          "_TZ3000_jnhu1llv"
         ],
         "productId": [
           "RH3052",
